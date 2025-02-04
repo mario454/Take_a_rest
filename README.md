@@ -33,7 +33,7 @@ Generates a rectangle or square using ASCII characters:
 - char(200) [ ╚ ]
 - char(188) [ ╝ ]
 
-\*\*Variable \*\***`DD`**
+\*\*Variable\*\***`DD`**
 
 - If `DD == 0`: The user is in the main page.
 - If `DD == 1`: The user is in the games page (display username and high score).
